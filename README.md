@@ -1,0 +1,2 @@
+# Expresso-Telecomunnication-Prediction-model-on-whether-a-user-will-churn-from-using-the-Network-Zind
+In this google colaboratory we will analyse factors that affect a user from ceasing to be an Expresso Telecommunication Customer. We will analyse the factor(s) that most influnced a cusomer to leave the serivce provider. However, we will give suggestions of which factors are most essential to ensure that customers are satisfied reducing the possibility that a customer will churn from Expresso Telecommunications
